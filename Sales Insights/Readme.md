@@ -48,4 +48,4 @@ and transactions.market_code="Mark001";`
 
 #### PowerBi Dashboard
 
-<p align="center"><a><img width="80% src="images/si%20dashboard.PNG"/></a></p> >
+<p align="center"><a><img width="80% src="https://github.com/Lieu3/Data-Analyst-Projects---Practice/blob/main/Sales%20Insights/Images/si%20dashboard.PNG/"></a></p> >
